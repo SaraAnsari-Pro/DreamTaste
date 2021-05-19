@@ -1,0 +1,123 @@
+video{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+.home-container{
+    /* background: url('images/1.jpg') center center/cover no-repeat;
+    height: 100vh; */
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2); */
+    background-color: inset 0 0 0 1000px rgba(0,0,0,0.2);
+    object-fit: contain;
+
+}
+
+.home-container > h1{
+     /* color: #cfb840; */
+    color: #fff3d0;
+    font-size: 70px;
+    margin-top: 200px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.home-container > p{
+/* color: #cfb840;  */
+color: #fff3d0;
+font-size: 35px;
+margin-top: 30px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.fa-play-circle{
+    margin-left: 4px;
+}
+
+
+@media screen and (max-width:960px){
+
+.home-container > h1{
+   
+    font-size: 70px;
+    margin-top: 170px;
+   
+   }
+}
+
+@media screen and (max-width:768px){
+
+    .home-container > h1{
+      
+        font-size: 60px;
+        margin-top: 165px;
+        
+    }
+
+    .home-container > p{
+       
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width:650px){
+
+    .home-container > h1{
+      
+        font-size: 50px;
+        margin-top: 160px;        
+    }
+
+    .home-container > p{
+       
+        font-size: 27px;
+    }
+}
+@media screen and (max-width:550px){
+
+    .home-container > h1{
+      
+        font-size: 40px;
+        margin-top: 160px;        
+    }
+
+    .home-container > p{
+       
+        font-size: 24px;
+    }
+}
+
+
+@media screen and (max-width:425px){
+
+    .home-container > h1{
+      
+        font-size: 35px;
+        margin-top: 170px;        
+    }
+
+    .home-container > p{
+       
+        font-size: 21px;
+    }
+}
+@media screen and (max-width:375px){
+
+    .home-container > h1{
+      
+        font-size: 30px;
+        margin-top: 165px;        
+    }
+
+    .home-container > p{
+       
+        font-size: 18px;
+    }
+}
