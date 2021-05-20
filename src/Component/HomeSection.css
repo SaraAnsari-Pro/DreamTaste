@@ -7,6 +7,7 @@ video{
 }
 
 .home-container{
+    height: 91vh;
     /* background: url('images/1.jpg') center center/cover no-repeat;
     height: 100vh; */
     width: 100%;
@@ -14,8 +15,8 @@ video{
     flex-direction: column;
     /* justify-content: center; */
     align-items: center;
-    /* box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2); */
-    background-color: inset 0 0 0 1000px rgba(0,0,0,0.2);
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2);
+    /* background-color: inset 0 0 0 1000px rgba(0,0,0,0.2); */
     object-fit: contain;
 
 }

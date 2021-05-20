@@ -68,7 +68,7 @@
   }
   
   .nav-links:hover {
-    border-bottom: 4px solid #cfb840;;
+    border-bottom: 4px solid #cfb840;
     transition: all 0.2s ease-out;
     color: #cfb840;;
   }

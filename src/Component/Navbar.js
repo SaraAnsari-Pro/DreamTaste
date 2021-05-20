@@ -64,12 +64,12 @@ window.addEventListener('resize', showButton)
         </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/Sign-Up' className='nav-links-mobile' onClick={closeMobileMenu}>
-                                Sign Up
+                            <Link to='/Order-Online' className='nav-links-mobile' onClick={closeMobileMenu}>
+                            Order Online
         </Link>
                         </li>
                     </ul>
-                    {button && <Button buttonStyle='btn--outline'>SIGN UP</Button>}
+                    {button && <Button buttonStyle='btn--outline'>Order Online</Button>}
                 </div>
             </nav>
         </>
