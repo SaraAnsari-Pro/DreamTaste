@@ -12,7 +12,6 @@
     background-color: transparent;
     color: white;
 }
-    
 
 
 
@@ -22,6 +21,24 @@
     transition: 250ms;
 }
 
+/* contact button  */
+.contact-btn{
+    padding: 8px 20px;
+    border-radius: 2px;
+    outline: none;
+    border: 1px solid #fff;
+    cursor: pointer;
+    background-color: #242424;;
+    color:#fff;
+    margin-bottom: 10px;
+}
+
+.contact-btn:hover {
+    background: #cfb840;
+    color: #242424;
+    transition: 250ms;
+    border-color:#cfb840;
+}
 
 .btn--primary{
 background-color: var(--primary);

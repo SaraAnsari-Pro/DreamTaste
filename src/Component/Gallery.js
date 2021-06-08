@@ -19,7 +19,8 @@ function Gallery() {
                         />
                           <GalleryItem 
                         src='images/2.jpg'
-                        text="this cake made by nuts and fruits"
+                        text="this cake made by nuts and fruits this cake made by nuts and fruits
+                        this cake made by nuts and fruits this cake made by nuts and fruits"
                         label=' Wedding Cake'
                         path='/Contact' 
                         />
@@ -27,13 +28,15 @@ function Gallery() {
                     <ul className='gallery__items'>
                         <GalleryItem 
                         src='images/3.jpg'
-                        text="this cake made by nuts and fruits"
+                        text="this cake made by nuts and fruits this cake made by nuts and fruits
+                        this cake made by nuts and fruits this cake made by nuts and fruits"
                         label='Chocolate Cake'
                         path='/Gallery' 
                         />
                           <GalleryItem 
                         src='images/4.jpg'
-                        text="this cake made by nuts and fruits"
+                        text="this cake made by nuts and fruits this cake made by nuts and fruits
+                        this cake made by nuts and fruits this cake made by nuts and fruits"
                         label=' Cheese Cake'
                         path='/Gallery' 
                         />
@@ -41,13 +44,15 @@ function Gallery() {
                     <ul className='gallery__items'>
                         <GalleryItem 
                         src='images/1.jpg'
-                        text="this cake made by nuts and fruits"
+                        text="this cake made by nuts and fruits this cake made by nuts and fruits
+                        this cake made by nuts and fruits this cake made by nuts and fruits"
                         label='Wedding Cake'
                         path='/gallery' 
                         />
                           <GalleryItem 
                         src='images/2.jpg'
-                        text="this cake made by nuts and fruits"
+                        text="this cake made by nuts and fruits this cake made by nuts and fruits
+                        this cake made by nuts and fruits this cake made by nuts and fruits"
                         label=' Wedding Cake'
                         path='/gallery' 
                         />
@@ -55,13 +60,15 @@ function Gallery() {
                     <ul className='gallery__items'>
                         <GalleryItem 
                         src='images/3.jpg'
-                        text="this cake made by nuts and fruits"
+                        text="this cake made by nuts and fruits this cake made by nuts and fruits
+                        this cake made by nuts and fruits this cake made by nuts and fruits"
                         label='Chocolate Cake'
                         path='/gallery' 
                         />
                           <GalleryItem 
                         src='images/4.jpg'
-                        text="this cake made by nuts and fruits"
+                        text="this cake made by nuts and fruits this cake made by nuts and fruits
+                        this cake made by nuts and fruits this cake made by nuts and fruits"
                         label=' Cheese Cake'
                         path='/gallery' 
                         />
@@ -69,27 +76,31 @@ function Gallery() {
                     <ul className='gallery__items'>
                         <GalleryItem 
                         src='images/1.jpg'
-                        text="this cake made by nuts and fruits"
+                        text="this cake made by nuts and fruits this cake made by nuts and fruits
+                        this cake made by nuts and fruits this cake made by nuts and fruits"
                         label='Wedding Cake'
                         path='/gallery' 
                         />
                           <GalleryItem 
                         src='images/2.jpg'
-                        text="this cake made by nuts and fruits"
-                        text="this cake made by nuts and fruits"label=' Wedding Cake'
+                        text="this cake made by nuts and fruits this cake made by nuts and fruits
+                        this cake made by nuts and fruits this cake made by nuts and fruits"
+                        label=' Wedding Cake'
                         path='/gallery' 
                         />
                     </ul>
                     <ul className='gallery__items'>
                         <GalleryItem 
                         src='images/3.jpg'
-                        text="this cake made by nuts and fruits"
+                        text="this cake made by nuts and fruits this cake made by nuts and fruits
+                        this cake made by nuts and fruits this cake made by nuts and fruits"
                         label='Chocolate Cake'
                         path='/gallery' 
                         />
                           <GalleryItem 
                         src='images/4.jpg'
-                        text="this cake made by nuts and fruits"
+                        text="this cake made by nuts and fruits this cake made by nuts and fruits
+                        this cake made by nuts and fruits this cake made by nuts and fruits"
                         label=' Cheese Cake'
                         path='/gallery' 
                         />
