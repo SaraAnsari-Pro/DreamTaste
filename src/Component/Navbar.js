@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom';
 import { Button } from './Button';
+import { GalleryItem } from "./GalleryItem"
+
 import './Navbar.css';
 
 
@@ -63,13 +65,23 @@ window.addEventListener('resize', showButton)
                                 Contact
         </Link>
                         </li>
+
+
+
                         <li className='nav-item'>
-                            <Link to='/Order-Online' className='nav-links-mobile' onClick={closeMobileMenu}>
+                            <Link to='/Order-Online' id="button" className='nav-links' onClick={closeMobileMenu}>
                             Order Online
         </Link>
                         </li>
+
+                
+                        
+
                     </ul>
-                    {button && <Button buttonStyle='btn--outline'>Order Online</Button>}
+
+                    
+                    {/* {button && <Button buttonStyle='btn--outline'>Order Online</Button>} */}
+                    
                 </div>
             </nav>
         </>

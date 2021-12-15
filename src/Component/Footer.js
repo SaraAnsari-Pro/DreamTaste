@@ -7,7 +7,7 @@ function Footer() {
         <div className='footer-container'>
             <section className="footer-wrap">
                 <p className='footer-wrap-heading'>
-                    FALLOW US
+                    FOLLOW US
                 </p>
             </section>
             <section className='social-media'>

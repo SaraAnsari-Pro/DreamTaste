@@ -83,7 +83,11 @@
     margin-bottom: 6px;
     margin-top: 44px;
   }
-  
+  .social-icon-link:hover{
+color:#cfb840;
+  }
+
+
   @media screen and (max-width: 820px) {
     .footer-links {
       padding-top: 2rem;

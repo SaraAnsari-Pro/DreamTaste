@@ -24,9 +24,9 @@ export default function ContactPage() {
 
     return (
         <div>
-            <br></br><br></br>
-            <h1>Contact Us</h1>
             <br></br>
+            <h1>Contact Us</h1>
+            
         <div className="container">
         <form onSubmit={sendEmail}>
 
