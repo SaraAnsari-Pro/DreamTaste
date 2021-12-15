@@ -24,9 +24,15 @@ export default function ContactPage() {
 
     return (
         <div>
+<<<<<<< HEAD
             <br></br>
             <h1>Contact Us</h1>
             
+=======
+            <br></br><br></br>
+            <h1>Contact Us</h1>
+            <br></br>
+>>>>>>> fd6ac62c3376ea0f296cf3a0e06ff45a1b4b1e67
         <div className="container">
         <form onSubmit={sendEmail}>
 
